@@ -1,0 +1,26 @@
+html,
+body {
+  background-color: #e1e1e8;
+  font-family: 'Roboto', sans-serif;
+}
+
+hr {
+  border: 0;
+  height: 0;
+  box-shadow: 0 0 10px 1px #ff4f14;
+}
+
+p {
+  text-align: justify;
+}
+
+pre{
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: black;
+  word-wrap: break-word;
+  font-family: 'Roboto', sans-serif;
+}
